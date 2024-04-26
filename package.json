@@ -1,8 +1,9 @@
 {
-  "name": "@yanzbotz/baileys",
-  "version": "6.6.0",
+  "name": "@irull2nd/baileys",
+  "version": "7.0.0",
   "description": "WhatsApp API",
   "keywords": [
+    "irull2nd",
     "whatsapp",
     "js-whatsapp",
     "whatsapp-api",
